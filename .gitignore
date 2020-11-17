@@ -1,0 +1,8 @@
+**node_modules
+*/node_modules/*
+.idea
+.DS_Store
+.vscode
+DELETE_payture/dist
+*.log
+config/local.js*
